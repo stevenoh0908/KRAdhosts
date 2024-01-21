@@ -35,6 +35,7 @@ ff02::3 ip6-allhosts
 
 # Start Streaming Services Adlist KR
 0.0.0.0 tvetamovie.pstatic.net
+0.0.0.0 glad-vod.pstatic.net
 # End Streaming Services Adlist KR
 
 # =================================================
